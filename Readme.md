@@ -11,12 +11,12 @@ This repository hosts the Bayesian Curriculum Generation Algorithm (BCG), an inn
 ## Environments
 The environments for training both the proposed approach and benchmark algorithms are illustrated below:
 
-![Training Environments](path/to/image)
+![Training Environments](figs/Minigrid_all_maps.png)
 
 ## Results
 The results from the test evaluations are presented here:
 
-![Test Results](path/to/results/image)
+![Test Results](figs/Results_minigrid_all_maps.png)
 
 ## Installation and Training
 To install the environment and execute the training, run the following commands:
