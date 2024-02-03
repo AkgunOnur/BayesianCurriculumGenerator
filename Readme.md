@@ -1,7 +1,7 @@
 # Bayesian Curriculum Generation Algorithm
 
 ## Overview
-This repository hosts the Bayesian Curriculum Generation Algorithm (BCG), an innovative approach designed for curriculum learning within sparse reward reinforcement learning environments. Unlike traditional methods, it employs Bayesian networks to dynamically generate tasks by modifying problem parameters, influencing task difficulty and offering compatibility with various RL techniques.
+This repository hosts the MiniGrid implementation of the Bayesian Curriculum Generation Algorithm (BCG), designed for curriculum learning in sparse reward reinforcement learning contexts. For access to the AeroRival Pursuit environment implementation, please switch to the `aerorival` branch. This dynamic and adaptive approach is showcased in various settings, demonstrating enhanced learning efficiency.
 
 ## Key Features
 - **Dynamic Task Generation:** Uses Bayesian networks for real-time task creation, adjusting complexity based on learning progression.
