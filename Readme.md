@@ -25,3 +25,9 @@ git clone https://github.com/AkgunOnur/BayesianCurriculumGenerator
 cd BayesianCurriculumGenerator
 pip install -r requirements.txt 
 python train_minigrid.py --train_type "Curriculum"
+```
+
+## Paper Review
+
+This paper is currently under review in the Neural Computing and Applications journal.
+
